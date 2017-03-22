@@ -1,0 +1,15 @@
+{
+  "name": "pi-iot-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "node-dht-sensor": "0.0.32"
+  }
+}
